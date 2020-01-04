@@ -1,0 +1,22 @@
+{
+	"aktuelles": [
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f07165645cfe02a32b51e604df9a6f8356241c43/images/angebot_625px.jpg",
+			"newsheadline": "feiner Nussstollen",
+			"newssubheadline": "gültig am 04-05 Januar",
+			"newstext": "<p style=\"text-align: right;\">statt EUR 3,10</p>",
+			"newsangebot": "nur EUR 2,50"
+		}
+	],
+	"vscontent": [
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f6bdf6b0261037be0ed3d5086d70eca766fb2e3f/images/Filiale_Bludesch_625px.jpg",
+			"vsstandort": "Bludesch",
+			"vsadresse": "Walgaustrasse 26",
+			"vsplz-ort": "6719 Bludesch",
+			"vs_phone": "+43 5525 2108",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo. - Sa. 06:30 - 12:00</p>"
+		}
+	]
+}
