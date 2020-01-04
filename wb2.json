@@ -4,12 +4,13 @@
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f07165645cfe02a32b51e604df9a6f8356241c43/images/angebot_625px.jpg",
 			"newsheadline": "feiner Nussstollen",
 			"newssubheadline": "statt EUR 3,10",
-			"newstext": "<p style=\"text-align: left;\">g&uuml;ltig am 04-05 Januar&nbsp; &nbsp;</p>",
+			"newstext": "<p style=\"text-align: left;\">Angebot g&uuml;ltig f&uuml;r&nbsp; 04 und 05 Januar 2020&nbsp; &nbsp;</p>",
 			"newsangebot": "nur EUR 2,50"
 		},
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@a80be10a0df2af4840fb4ea6ab02b6dff2427764/images/news_625px.jpg",
-			"newsheadline": "Info's folgen"
+			"newsheadline": "Info's folgen",
+			"newstext": "<p>Besuch in der B&auml;ckerei</p>"
 		},
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@39c1af4f258d432b4875f8e0ffe8a6a0652e880e/images/angebot_625px.jpg",
@@ -17,7 +18,8 @@
 		},
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@1a01dc66970d08c2e603f7e51aaebcd38fa3aa6f/images/job_625px.jpg",
-			"newsheadline": "Info's folgen"
+			"newsheadline": "Info's folgen",
+			"newstext": "<p>Jobangebot</p>"
 		}
 	],
 	"vscontent": [
