@@ -3,12 +3,33 @@
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f07165645cfe02a32b51e604df9a6f8356241c43/images/angebot_625px.jpg",
 			"newsheadline": "feiner Nussstollen",
-			"newssubheadline": "gültig am 04-05 Januar",
-			"newstext": "<p style=\"text-align: right;\">statt EUR 3,10</p>",
+			"newssubheadline": "statt EUR 3,10",
+			"newstext": "<p style=\"text-align: left;\">g&uuml;ltig am 04-05 Januar&nbsp; &nbsp;</p>",
 			"newsangebot": "nur EUR 2,50"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@a80be10a0df2af4840fb4ea6ab02b6dff2427764/images/news_625px.jpg",
+			"newsheadline": "Info's folgen"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@39c1af4f258d432b4875f8e0ffe8a6a0652e880e/images/angebot_625px.jpg",
+			"newsheadline": "Info's folgen"
+		},
+		{
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@1a01dc66970d08c2e603f7e51aaebcd38fa3aa6f/images/job_625px.jpg",
+			"newsheadline": "Info's folgen"
 		}
 	],
 	"vscontent": [
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@bcb82adb21226e8b6060eb31ba2ee0e2d1a20266/images/Filiale_Thueringen_625px.jpg",
+			"vsstandort": "Thüringen",
+			"vsadresse": "Walgaustrasse 1",
+			"vsplz-ort": "6712 Thüringen",
+			"vs_phone": "+43 5550 215 10",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p style=\"text-align: center;\">Mo - Sa von 06:30 bis 12:00 und 14:30 - 18:00<br />Donnerstag und Samsag Nachmittag geschlossen</p>"
+		},
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f6bdf6b0261037be0ed3d5086d70eca766fb2e3f/images/Filiale_Bludesch_625px.jpg",
 			"vsstandort": "Bludesch",
@@ -16,7 +37,25 @@
 			"vsplz-ort": "6719 Bludesch",
 			"vs_phone": "+43 5525 2108",
 			"vszeitentitel": "Öffnungszeiten",
-			"vszeiten": "<p>Mo. - Sa. 06:30 - 12:00</p>"
+			"vszeiten": "<p style=\"text-align: center;\">Mo - Sa von 06:30 bis 12:00</p>"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@8eb9f2527e8eb67097e662210d185c4dd2feaded/images/Filiale_Gais_625px.jpg",
+			"vsstandort": "Gais",
+			"vsadresse": "Walgaustrasse 33",
+			"vsplz-ort": "6719 Bludesch-Gais",
+			"vs_phone": "+43 5525 646 66",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo - Sa von 05:30 bis 12:00</p>"
+		},
+		{
+			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@1373241d39fb7d0e283ff365e01b706a3a8f9d79/images/Filiale_Raggal_625px.jpg",
+			"vsstandort": "Raggal",
+			"vsadresse": "Hausnummer 111",
+			"vsplz-ort": "6741 Raggal",
+			"vs_phone": "+43 5553 381",
+			"vszeitentitel": "Öffnungszeiten",
+			"vszeiten": "<p>Mo - Sa von 07:30 bis 11:00</p>"
 		}
 	]
 }
