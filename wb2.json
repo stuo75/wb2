@@ -8,17 +8,18 @@
 			"newsangebot": "nur EUR 2,50"
 		},
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@a80be10a0df2af4840fb4ea6ab02b6dff2427764/images/news_625px.jpg",
-			"newsheadline": "Info's folgen",
-			"newstext": "<p>Besuch in der B&auml;ckerei</p>"
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@83d2ff450b93546b0acec4b3b402bbd4eee5f7eb/images/angebot_625px.jpg",
+			"newsheadline": "Ciabatta",
+			"newstext": "<p>g&uuml;ltig von montag bis samstag</p>"
 		},
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@39c1af4f258d432b4875f8e0ffe8a6a0652e880e/images/angebot_625px.jpg",
-			"newsheadline": "Info's folgen"
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@a80be10a0df2af4840fb4ea6ab02b6dff2427764/images/news_625px.jpg",
+			"newsheadline": "Info's folgen",
+			"newstext": "<p>Besuch in der B&auml;ckerei&nbsp; flkfg lf&ouml;lsfdgj glfds fdlkg fdlgkj fdlgjfd glfd gkgjl fdgkdsf glfdsgj</p>\n<p>fdsgjsdfgfdklg&ouml; df</p>\n<p>dfsl kjfsdlgj fdslgj fdlg</p>\n<p>fdkl&ouml;gj flds&ouml;gfdg</p>\n<ul>\n<li>gfhdg</li>\n<li>fghdgh</li>\n<li>gfhf</li>\n</ul>\n<p>Good Luck</p>\n<p>&nbsp;</p>"
 		},
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@1a01dc66970d08c2e603f7e51aaebcd38fa3aa6f/images/job_625px.jpg",
-			"newsheadline": "Info's folgen",
+			"newsheadline": "Info's fo",
 			"newstext": "<p>Jobangebot</p>"
 		}
 	],
