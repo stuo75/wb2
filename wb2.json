@@ -27,18 +27,18 @@
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@bcb82adb21226e8b6060eb31ba2ee0e2d1a20266/images/Filiale_Thueringen_625px.jpg",
 			"vsstandort": "Thüringen",
-			"vsadresse": "Walgaustrasse 1",
+			"vsadresse": "Walgaustrasse 18",
 			"vsplz-ort": "6712 Thüringen",
 			"vs_phone": "+43 5550 215 10",
 			"vszeitentitel": "Öffnungszeiten",
-			"vszeiten": "<p style=\"text-align: left;\">Mo - Sa von 06:30 - 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen</p>"
+			"vszeiten": "<p style=\"text-align: left;\">Mo - Sa von 06:00 - 12:00 und 14:30 - 18:00<br />Donnerstag und Samstag Nachmittag geschlossen</p>\n<p style=\"text-align: left;\">&nbsp;</p>"
 		},
 		{
 			"bild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f6bdf6b0261037be0ed3d5086d70eca766fb2e3f/images/Filiale_Bludesch_625px.jpg",
 			"vsstandort": "Bludesch",
 			"vsadresse": "Walgaustrasse 26",
 			"vsplz-ort": "6719 Bludesch",
-			"vs_phone": "+43 5525 2108",
+			"vs_phone": "+43 5550 2108",
 			"vszeitentitel": "Öffnungszeiten",
 			"vszeiten": "<p style=\"text-align: left;\">Mo - Sa von 06:30 - 12:00</p>"
 		},
