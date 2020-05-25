@@ -1,19 +1,25 @@
 {
 	"aktuelles": [
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@f07165645cfe02a32b51e604df9a6f8356241c43/images/angebot_625px.jpg",
-			"newsheadline": "feiner Nussstollen",
-			"newssubheadline": "statt EUR 3,10",
-			"newstext": "<p style=\"text-align: left;\">Angebot g&uuml;ltig&nbsp; am&nbsp; 4 und 5 J&auml;nner 2020.&nbsp; &nbsp;</p>",
-			"newsangebot": "nur EUR 2,50"
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@ca1aa6443dd5c67a46704c5949a291c23cc8a96e/images/Linzertörtle.jpg",
+			"newsheadline": "feines Linzertörtle",
+			"newssubheadline": "statt € 3,10",
+			"newstext": "<p style=\"text-align: left;\">Angebot g&uuml;ltig&nbsp; am&nbsp; 27. und 28. Mai 2020.&nbsp; &nbsp;</p>",
+			"newsangebot": "nur € 2,50"
 		},
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@83d2ff450b93546b0acec4b3b402bbd4eee5f7eb/images/angebot_625px.jpg",
-			"newsheadline": "Info's folgen"
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@b7d60074384eef8c34e90b925176050925c8ea1b/images/Dinkel-Kürbis-Urkornbrot.jpg",
+			"newsheadline": "weizenfreies Dinkel-Kürbis-Urkornbrot",
+			"newssubheadline": "statt € 3,50",
+			"newstext": "<p>Angebot g&uuml;ltig am 29. und 30. Mai 2020</p>",
+			"newsangebot": "nur € 2,80"
 		},
 		{
-			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@a80be10a0df2af4840fb4ea6ab02b6dff2427764/images/news_625px.jpg",
-			"newsheadline": "Info's folgen"
+			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@c4fe0e3ddc47dbc739155256abfe75d76b5c2328/images/Zimtstute.jpg",
+			"newsheadline": "feine Zimtstute",
+			"newssubheadline": "statt € 5,10",
+			"newstext": "<p>Angebot g&uuml;ltig am 29. und 30. Mai 2020</p>",
+			"newsangebot": "nur € 4,--"
 		},
 		{
 			"newsbild": "https://cdn.jsdelivr.net/gh/stuo75/wb2@1a01dc66970d08c2e603f7e51aaebcd38fa3aa6f/images/job_625px.jpg",
